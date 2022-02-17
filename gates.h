@@ -1,5 +1,5 @@
-#ifndef GATES_H
-#define GATES_H
+#ifndef gates_h
+#define gates_h
 
 class LogicGate {
 public:

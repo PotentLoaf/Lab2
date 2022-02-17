@@ -1,5 +1,10 @@
-#ifndef NETLIST_H
-#define NETLIST_H
+#ifndef netlist_h
+#define netlist_h
+
+#include <iostream>
+#include <fstream>
+#include <iomanip>
+#include <cmath>
 
 #include "gates.h"
 #define SCALE_FACTOR 100
